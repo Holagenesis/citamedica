@@ -8,13 +8,15 @@ Este es mi proyecto que simula el login y registro de usuarios en un sistema de 
 </p>
 
 ####Instalacion
--Se tiene un demo del sistema creado al que se puede accer a traves del siguiente link:
+-Se tiene un demo del sistema creado al que se puede accer a traves del siguiente link: citamedicaphp.infinityfreeapp.com
 
 
 ####Para el login y registro
 - Se encuentra en un mismo formulari con el nombre de Index para que sea la pantalla principal
 - Al presionar los botones el formulario se alternara entre registro y login
 - El usuario podra escoger el rol de paciente o doctor
+- Existe un usuario ya guardado: doctora2@gmail.com contraseña: 123456
+- Usuario paciente cliente@gmail.com contraseña: 123
 
 ![image alt](https://github.com/Holagenesis/citamedica/blob/5d07ea77251045953075b1c4061667b5bb1ffad8/Imagen2.png)
 
