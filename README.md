@@ -16,6 +16,7 @@ Este es mi proyecto que simula el login y registro de usuarios en un sistema de 
 - Al presionar los botones el formulario se alternara entre registro y login
 - El usuario podra escoger el rol de paciente o doctor
 
+![image alt](https://github.com/Holagenesis/citamedica/blob/5d07ea77251045953075b1c4061667b5bb1ffad8/Imagen2.png)
 
 ####Para el dashboard
 - Se visualiza un dashboard con los datos del usuario logeado, esta vista solo esta permitida para usuarios con el tipo de usuario "doctor", que se obtiene al momento de registro
@@ -23,13 +24,21 @@ Este es mi proyecto que simula el login y registro de usuarios en un sistema de 
 - Se tiene un boton con la opcion de descargar los archivos en formato CSV
 - En la tabla de resumen se encuentran las reservas hechas por los pacientes con la opcion de reagendar o eliminar la cita
 
+![image alt](https://github.com/Holagenesis/citamedica/blob/5d07ea77251045953075b1c4061667b5bb1ffad8/Imagen4.png)
+
+
+
 ####Para el paciente
 - El usuario con el rol de paciente sera enviado a una vista diferente del usuario con el rol de doctor, en donde se viaualizara un formulario para la reserva de citas
-- La reserva hecha sera cargada a la tabla del doctor 
+- La reserva hecha sera cargada a la tabla del doctor
+
+  ![image alt](https://github.com/Holagenesis/citamedica/blob/5d07ea77251045953075b1c4061667b5bb1ffad8/Imagen5.png)
 
 ####API
 - Se incluyo una API en formato JSON que devuleve las citas guardadas
 - Sin embargo no se incluyo la opcion en el proyecto sino que debera acceder directamente por la URL
+
+  ![image alt](https://github.com/Holagenesis/citamedica/blob/5d07ea77251045953075b1c4061667b5bb1ffad8/Imagen6.png)
 - 
 ####Acerca de la arquitectura
 - Se utilizo PHP como lenguaje principal para el backend
